@@ -1,6 +1,6 @@
 # Hospital Operational Efficiency Across U.S. Regions: Population Aging and ED Performance
 
-**Team 10 | Regional emergency department performance, hospital capacity, and population aging**
+**Sophia Lee- Team 10 | Regional emergency department performance, hospital capacity, and population aging**
 
 **Status:** Final project notebook with saved results; source CSVs are required to rerun the analysis.
 
