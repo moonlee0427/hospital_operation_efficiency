@@ -111,7 +111,7 @@ The notebook ([A10-Hospital-Operational-Efficiency-for-Elderly-Across-US-Regions
 | Within-size regional bars | ED visit time by region and bed-size group | Q13–Q14 |
 | Scatterplots | Older-population share vs. ED visit time | Q10–Q11 |
 
-![alt text](image.png)
+<img width="758" height="439" alt="image" src="https://github.com/user-attachments/assets/54fb8452-e4a4-47b1-86e9-09afbb498ffe" />
 
 ### Key insights
 
